@@ -14,7 +14,7 @@
 <p align="left">
 Como  <strong>Cientista de Dados</strong> especializo-me em combinar habilidades analíticas avançadas com uma colaboração efetiva em ambientes de equipe e uma comunicação clara e objetiva de insights aos stakeholders. 
   
-Meu foco principal é gerar um impacto significativo e agregar valor real aos negócios. Com formação em Data Science pela Uninter e certificações do Google, Sigmoidal, convido você a ter um visão mais completa do meu trabalho, através dos projetos desenvolvidos, refletindo meu compromisso, dedicação à ciência de dados e ao impacto positivo que ela pode trazer para qualquer área.
+Meu foco principal é gerar um impacto significativo e agregar valor real aos negócios. Com formação em Data Science pela Uninter e certificações do Google, Sigmoidal, convido você a ter uma visão mais completa do meu trabalho, através dos projetos desenvolvidos, refletindo meu compromisso, dedicação à ciência de dados e ao impacto positivo que ela pode trazer para qualquer área.
 </p>
 
 
