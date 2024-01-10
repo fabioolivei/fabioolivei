@@ -38,7 +38,7 @@ Veja os projetos publicados por Fabio Olivei:
 * **Detectando o Câncer de Mama com Machine Learning:** https://9o0l.short.gy/Ca2pXq
 * **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
-* **Diabetes Alert - Diabetes Prediction with Machine Learning:** https://shre.ink/TRlP
+* **Diabetes Alert: A Machine Learning-Based App:** https://shre.ink/TRlP
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
   
 ### Análise exploratória(EDA)  
