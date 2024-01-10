@@ -39,13 +39,13 @@ Veja os projetos publicados por Fabio Olivei:
 * **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 * **Diabetes Alert - Diabetes Prediction with Machine Learning:** https://shre.ink/TRlP
+* **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
   
 ### Análise exploratória(EDA)  
 * **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
 * **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
 * **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://shre.ink/rYcD
-* **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
 
 ### Tutorial
 * **O Bar Chart Race como ferramenta de visualização de dados:** https://shre.ink/9PSt
