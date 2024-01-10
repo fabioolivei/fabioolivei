@@ -45,6 +45,7 @@ Veja os projetos publicados por Fabio Olivei:
 * **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
 * **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://shre.ink/rYcD
+* **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
 
 ### Tutorial
 * **O Bar Chart Race como ferramenta de visualização de dados:** https://shre.ink/9PSt
