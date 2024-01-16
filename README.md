@@ -40,12 +40,14 @@ Veja os projetos publicados por Fabio Olivei:
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 * **Diabetes Alert: A Machine Learning-Based App:** https://shre.ink/rvNt
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
+* **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
   
 ### Análise exploratória(EDA)  
 * **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
 * **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
 * **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://shre.ink/rYcD
+* **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
 
 ### Tutorial
 * **O Bar Chart Race como ferramenta de visualização de dados:** https://shre.ink/9PSt
