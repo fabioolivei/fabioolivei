@@ -12,9 +12,9 @@
 ---
 
 <p align="left">
-Como  <strong>Cientista de Dados</strong> especializo-me em combinar habilidades analíticas avançadas com uma colaboração efetiva em ambientes de equipe e uma comunicação clara e objetiva de insights aos stakeholders. 
-  
-Meu foco principal é gerar um impacto significativo e agregar valor real aos negócios. Com formação em Data Science pela Uninter e certificações do Google, Sigmoidal, convido você a ter uma visão mais completa do meu trabalho, através dos projetos desenvolvidos, refletindo meu compromisso, dedicação à ciência de dados e ao impacto positivo que ela pode trazer para diversas áreas.
+As a <strong>Data Scientist</strong>, I specialize in combining advanced analytical skills with effective teamwork and clear, concise communication of insights to stakeholders.
+
+My main focus is to generate significant impact and add real value to businesses. With a background in Data Science, I have mastered technical skills in Python, SQL, Statistics, Data Analysis, Machine Learning, Computer Vision, Excel, and Power BI, preparing myself to tackle complex challenges in the data universe. I invite you to get a more complete view of my work through the projects I have developed, reflecting my commitment and dedication to data science and the positive impact it can bring to various fields.
 </p>
 
 
@@ -30,8 +30,7 @@ Meu foco principal é gerar um impacto significativo e agregar valor real aos ne
 </div>
 
 
-## Projetos:
-Veja os projetos publicados por Fabio Olivei:
+## My Projects:
 
 ### Machine Learning
 
@@ -42,7 +41,7 @@ Veja os projetos publicados por Fabio Olivei:
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
 * **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
   
-### Análise exploratória(EDA)  
+### Exploratory Data Analysis (EDA)  
 * **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
 * **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
