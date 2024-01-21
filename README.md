@@ -14,7 +14,7 @@
 <p align="left">
 As a <strong>Data Scientist</strong>, I specialize in combining advanced analytical skills with effective teamwork and clear, concise communication of insights to stakeholders.
 
-My main focus is to generate significant impact and add real value to businesses. With a background in Data Science, I have mastered technical skills in Python, SQL, Statistics, Data Analysis, Machine Learning, Computer Vision, Excel, and Power BI, preparing myself to tackle complex challenges in the data universe. 
+With a background in Data Science, I have mastered technical skills in Python, SQL, Statistics, Data Analysis, Machine Learning, Computer Vision, Excel, and Power BI, preparing myself to tackle complex challenges in the data universe. However, my main focus is to generate significant impact and add real value to businesses, regardless of the tools used.
 
 I invite you to get a more complete view of my work through the projects I have developed, reflecting my commitment and dedication to data science and the positive impact it can bring to various fields.
 </p>
