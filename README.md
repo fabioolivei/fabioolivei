@@ -36,6 +36,23 @@ I invite you to get a more complete view of my work through the projects I have 
 
 ## **Machine Learning**
 
+* [**Diabetes Alert: A Machine Learning-Based App:**](https://shre.ink/rvNt)
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3xBqh5Df8qJj98VNi2GS0w.jpeg" />
+
+- Project Objectives: To develop an ML model for predicting diabetes with high precision and recall, targeting early intervention and enhanced patient health management.
+
+- Deployment
+For this project, the model was deployed using a Gradio app hosted on Hugging Face Spaces.
+
+- Without a Detection Model: Consider a scenario where a health clinic serves 10,000 patients per month, of which 1,000 have diabetes, but only 150 are diagnosed in time.
+
+- With the Optimized XGBoost Model (The Best Model): The model identifies 900 patients as potential diabetes cases. Of those 900, 750 actually have diabetes and are diagnosed.
+
+- Impact Result: Thanks to the best diabetes prediction model, the clinic can identify and diagnose early 750 diabetes cases among patients. This represents a significant increase in detection compared to the previous scenario, where only 150 cases were diagnosed.
+
+  
+
 * ### [**Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:**](https://shre.ink/UpF5)
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CxrIugDH7-3iMM6DZxYBPg.png" />
@@ -54,8 +71,8 @@ Graças ao nosso melhor modelo, a empresa consegue evitar uma perda adicional de
 
 [Clique aqui para ver o estudo completo](https://shre.ink/UpF5)
 
-* **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
-* **Diabetes Alert: A Machine Learning-Based App:** https://shre.ink/rvNt
+
+
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
 * **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
   
