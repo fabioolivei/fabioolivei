@@ -55,7 +55,7 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 * ### [**Billions in Losses Avoided! Machine Learning in the Fight Against Card Fraud:**](https://shre.ink/UpF5)
 
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CxrIugDH7-3iMM6DZxYBPg.png" />
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mnxrPjQxlHBdty3ZiVW8iw.png" />
 
 - What is the importance of Machine Learning in practice, in this project?
   
