@@ -36,7 +36,7 @@ I invite you to get a more complete view of my work through the projects I have 
 
 ## **Machine Learning**
 
-* [**Diabetes Alert: A Machine Learning-Based App:**](https://shre.ink/rvNt)
+* ### [**Diabetes Alert: A Machine Learning-Based App:**](https://shre.ink/rvNt)
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3xBqh5Df8qJj98VNi2GS0w.jpeg" />
 
