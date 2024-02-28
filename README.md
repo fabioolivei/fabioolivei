@@ -36,7 +36,7 @@ I invite you to get a more complete view of my work through the projects I have 
 
 ### **Machine Learning**
 
-* **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
+* [**Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:**] (https://shre.ink/UpF5)
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CxrIugDH7-3iMM6DZxYBPg.png" />
 
