@@ -32,7 +32,7 @@ I invite you to get a more complete view of my work through the projects I have 
 </div>
 
 
-## My Projects:
+# My Projects:
 
 ## **Machine Learning**
 
