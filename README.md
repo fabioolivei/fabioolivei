@@ -52,9 +52,6 @@ I invite you to get a more complete view of my work through the projects I have 
 - Desse total, R$ 6,2 bilhões são realmente fraudes e são evitadas.
 Graças ao nosso melhor modelo, a empresa consegue evitar uma perda adicional de R$ 6,2 bilhões em fraudes.
 
-<p align="center">
-  <img alt="BA" width="65%" src="https://github.com/HenriqueWF/PBI_BA/assets/86746927/30ffef7d-91a8-4599-ab0e-e861655d73e6">
-</p>
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 * **Diabetes Alert: A Machine Learning-Based App:** https://shre.ink/rvNt
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
