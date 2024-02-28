@@ -34,10 +34,27 @@ I invite you to get a more complete view of my work through the projects I have 
 
 ## My Projects:
 
-### Machine Learning
+### **Machine Learning**
 
-* **Detectando o Câncer de Mama com Machine Learning:** https://9o0l.short.gy/Ca2pXq
 * **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
+
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CxrIugDH7-3iMM6DZxYBPg.png" />
+
+- Qual a importância do Machine Learning na prática, neste projeto?
+  
+**Sem Modelo de Detecção**:
+- Considere uma empresa com R$ 500,00 bilhões de transações, onde 7,5 bilhões são fraudes
+- Ela consegue detectar e evitar 15% das fraudes: (R$ 1,125 bilhões).
+- Ainda assim, R$ 6,375 bilhões em fraudes passam despercebidas.
+  
+**Com o melhor modelo de Machine Learning encontrado neste projeto:**
+- O modelo identifica R$ 7,05 bilhões como possíveis fraudes.
+- Desse total, R$ 6,2 bilhões são realmente fraudes e são evitadas.
+Graças ao nosso melhor modelo, a empresa consegue evitar uma perda adicional de R$ 6,2 bilhões em fraudes.
+
+<p align="center">
+  <img alt="BA" width="65%" src="https://github.com/HenriqueWF/PBI_BA/assets/86746927/30ffef7d-91a8-4599-ab0e-e861655d73e6">
+</p>
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 * **Diabetes Alert: A Machine Learning-Based App:** https://shre.ink/rvNt
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
