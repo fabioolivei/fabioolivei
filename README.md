@@ -53,23 +53,24 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
   
 
-* ### [**Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:**](https://shre.ink/UpF5)
+* ### [**Billions in Losses Avoided! Machine Learning in the Fight Against Card Fraud:**](https://shre.ink/UpF5)
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CxrIugDH7-3iMM6DZxYBPg.png" />
 
-- Qual a importância do Machine Learning na prática, neste projeto?
+- What is the importance of Machine Learning in practice, in this project?
   
-**Sem Modelo de Detecção**:
-- Considere uma empresa com R$ 500,00 bilhões de transações, onde 7,5 bilhões são fraudes
-- Ela consegue detectar e evitar 15% das fraudes: (R$ 1,125 bilhões).
-- Ainda assim, R$ 6,375 bilhões em fraudes passam despercebidas.
-  
-**Com o melhor modelo de Machine Learning encontrado neste projeto:**
-- O modelo identifica R$ 7,05 bilhões como possíveis fraudes.
-- Desse total, R$ 6,2 bilhões são realmente fraudes e são evitadas.
-Graças ao nosso melhor modelo, a empresa consegue evitar uma perda adicional de R$ 6,2 bilhões em fraudes.
+**Without a Detection Model**:
 
-[Clique aqui para ver o estudo completo](https://shre.ink/UpF5)
+*   Consider a company with R$ 500 billion in transactions, where 7.5 billion are frauds.
+*   It manages to detect and prevent 15% of the frauds: (R$ 1.125 billion).
+*   Still, R$ 6.375 billion in frauds go unnoticed.
+
+**With the best Machine Learning model found in this project**:
+
+*   The model identifies R$ 7.05 billion as potential frauds.
+*   Of this total, R$ 6.2 billion are actually frauds and are avoided. Thanks to our best model, the company manages to avoid an additional loss of R$ 6.2 billion in frauds.
+
+[Click here to see the full study](https://shre.ink/UpF5)
 
 
 
