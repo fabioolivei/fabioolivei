@@ -36,7 +36,7 @@ I invite you to get a more complete view of my work through the projects I have 
 
 ### **Machine Learning**
 
-* [**Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:**](https://shre.ink/UpF5)
+* ## [**Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:**](https://shre.ink/UpF5)
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CxrIugDH7-3iMM6DZxYBPg.png" />
 
@@ -51,6 +51,8 @@ I invite you to get a more complete view of my work through the projects I have 
 - O modelo identifica R$ 7,05 bilhões como possíveis fraudes.
 - Desse total, R$ 6,2 bilhões são realmente fraudes e são evitadas.
 Graças ao nosso melhor modelo, a empresa consegue evitar uma perda adicional de R$ 6,2 bilhões em fraudes.
+
+Clique [aqui]((https://shre.ink/UpF5)) para ver o estudo completo
 
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 * **Diabetes Alert: A Machine Learning-Based App:** https://shre.ink/rvNt
