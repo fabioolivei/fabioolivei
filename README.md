@@ -36,6 +36,7 @@ I invite you to get a more complete view of my work through the projects I have 
 
 ## **Machine Learning**
 
+
 * ### [**Diabetes Alert: A Machine Learning-Based App:**](https://shre.ink/rvNt)
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3xBqh5Df8qJj98VNi2GS0w.jpeg" />
@@ -50,6 +51,7 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 - **With the Optimized XGBoost Model (The Best Model)**: The model identifies 900 patients as potential diabetes cases. Of those 900, 750 actually have diabetes and are diagnosed.
 
 - **Impact Result:** Thanks to the best diabetes prediction model, the clinic can identify and diagnose early 750 diabetes cases among patients. This represents a significant increase in detection compared to the previous scenario, where only 150 cases were diagnosed.
+
 
   
 
