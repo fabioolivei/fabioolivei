@@ -52,7 +52,7 @@ I invite you to get a more complete view of my work through the projects I have 
 - Desse total, R$ 6,2 bilhões são realmente fraudes e são evitadas.
 Graças ao nosso melhor modelo, a empresa consegue evitar uma perda adicional de R$ 6,2 bilhões em fraudes.
 
-Clique [aqui]((https://shre.ink/UpF5)) para ver o estudo completo
+[Clique aqui para ver o estudo completo](https://shre.ink/UpF5)
 
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 * **Diabetes Alert: A Machine Learning-Based App:** https://shre.ink/rvNt
