@@ -150,11 +150,106 @@ Evaluation
 
 [Click here to see the full study](https://shre.ink/rhPB)
 
-### Exploratory Data Analysis (EDA)  
-* **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
-* **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
-* **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
-* **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
+## Exploratory Data Analysis (EDA) 
 
-### Tutorial
-* **O Bar Chart Race como ferramenta de visualização de dados:** https://shre.ink/9PSt
+
+* ### [**Analyzing Airbnb Data (Lisbon):**](https://shre.ink/HLXA)
+
+<div align="center">
+
+<img src="https://camo.githubusercontent.com/c5fa04297b1d7ac37119d62a88af6d11080adb83f077c3e2a0f647f748ae0db3/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a4a56565f526e38686a6668535f644d613854723559512e706e67" />
+
+</div>
+
+- ### Data Acquisition:
+All data used here were obtained from the Inside Airbnb website.
+
+- ### Why Travel to Lisbon?
+Imagine embarking on a journey that takes you to a place where the roots of Brazil's history are deeply intertwined, be it through its architecture, cuisine, and hospitality. The city boasts renowned museums such as the National Tile Museum and the National Museum of Ancient Art, and a traditional cuisine with dishes like codfish and pastéis de nata.
+
+- ### Conclusion:
+Based on the data and analyses conducted, we observe that the majority of properties in Lisbon listed on Airbnb are full houses or apartments available for rent. Moreover, there is also a significant number of private rooms available. We can also define the average of the highest and lowest values for the 10 neighborhoods.
+
+
+* ### [**COVID-19 in Brazil and the world:**](https://shre.ink/9PXH)
+
+<div align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ftxsVkc5-34nn7Ctz9SuAw.jpeg" />
+
+</div>
+
+- ### Purpose of This Article
+The aim of this analysis is to examine the current data on COVID-19, both in Brazil and worldwide, three years after the pandemic began. We will look into insights through a comprehensive statistical analysis of the disease's situation.
+
+- ### Data Collection and Analysis:
+Reliable data collection was carried out to understand the impact of COVID-19 and monitor its progression. Using data from various sources, including the World Health Organization (WHO), the European Centre for Disease Prevention and Control (ECDC), the Organisation for Economic Co-operation and Development (OECD), the United Nations (UN), and official reports from local governments.
+
+- ### Bonus:
+I made a bar chart race of 10 selected countries based on the cumulative number of recorded deaths.
+
+
+  
+* ### [**Top 100 Highest-Grossing Movies:**](https://shre.ink/9PXV)
+
+<div align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LkNb1Mu83Vo6RMb38eKJ2Q.png" />
+
+</div>
+
+- ### Analysis Objective
+- Compare box office revenues from different countries, genres, and periods.
+- Identify trends in box office revenue over time.
+- Highlight the most successful franchises in the top positions.
+- Gain insights more easily through graphs on the ranking over time.
+
+- ### Conclusion (EDA):
+In summary, the analysis provided a detailed view of box office trends, revealing which films and distributors dominated the box offices and how box office revenue has evolved over the years.
+
+- ### Bonus:
+I created a dynamic chart (bar chart race) to understand the top 10 highest-grossing films and draw some insights.
+
+
+* ### [**A/B Testing Strategies in Fast Food Advertising:**](https://shre.ink/rhPB)
+
+<div align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BiwbOpLPRZIZbBZh6RHyjQ.png" />
+
+</div>
+
+- **Objective:** The aim is to analyze a Fast Food Marketing Campaign dataset to understand the impact of different promotions on sales and identify the most effective strategies.
+
+- **Key Question:** Which marketing promotions are most effective in driving sales?
+
+**Statistical Significance (p-values)**:
+- Promotion 1 vs Promotion 2: p-value ≈ 4.29e-10
+- Promotion 1 vs Promotion 3: p-value ≈ 0.121
+- Promotion 2 vs Promotion 3: p-value ≈ 1.57e-06
+
+Evaluation
+- A/B Testing Results: Identified that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2.
+- Cross-Validation: Lowest Mean Squared Error (MSE): The lowest value, 0.085, suggests a relatively good performance of the model in that specific fold, indicating that the model had an average squared error of approximately 85 sales (when we multiply by 1000 to convert back to the original scale of 'SalesInThousands').
+
+[Click here to see the full study](https://shre.ink/rhPB)
+## Tutorial
+
+* ## [**Bar Chart Race as a Data Visualization Tool:**](https://shre.ink/9PSt)
+
+<div align="center">
+
+![Descrição do GIF](https://assets.zyrosite.com/Y4L8BJjE2oia5PMq/evoluassapso_covid-dOqN9VqG4EtQneaR.gif)
+
+</div>
+
+- ### Bar Chart Race as a Data Visualization Tool
+A bar chart race is a dynamic chart that shows the evolution of a value over time. It is a very effective way to visualize data, as it allows users to see how values change over time quickly and easily.
+
+- ### How to Plot a Bar Chart Race?
+There are several ways to plot a bar chart race.
+
+One way to plot a bar chart race is by using an open-source tool such as Python or R.
+
+- ### Using Gemini and ChatGPT to Assist in Creating Dynamic Charts
+[Click here to see the Tutorial](https://medium.com/@fabioolivei/o-bar-chart-race-como-ferramenta-de-visualiza%C3%A7%C3%A3o-de-dados-f421c304e7e)
