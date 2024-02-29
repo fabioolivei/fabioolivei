@@ -103,7 +103,7 @@ The dataset focuses on predicting health insurance costs based on factors such a
 
 [Click here to see the full study](https://shre.ink/rXwd)
 
-* ###[**A/B Testing Strategies in Fast Food Advertising:**](https://shre.ink/rhPB)
+* ### [**A/B Testing Strategies in Fast Food Advertising:**](https://shre.ink/rhPB)
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BiwbOpLPRZIZbBZh6RHyjQ.png" />
 
