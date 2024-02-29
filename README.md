@@ -88,7 +88,7 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 [Click here to see the full study](https://shre.ink/rYcD)
 
-* ###[**Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:**](https://shre.ink/rXwd)
+* ### [**Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:**](https://shre.ink/rXwd)
 
 <img src="https://media.licdn.com/dms/image/D4D12AQFhjYnh9YPVQQ/article-cover_image-shrink_720_1280/0/1704463771968?e=1714608000&v=beta&t=DAQzeITTnvwhfglzk0nWg-QYtx0y1cB_jPXXb4BS7WQ" />
 
