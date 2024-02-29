@@ -76,6 +76,8 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 * ### [**YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:**](https://shre.ink/rYcD)
 
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0oAVUuAAK6kiDILND2EReA.png" />
+
 - **Understanding the Analysis:** The aim of this analysis is to explore the diverse landscape of YouTube channels, identifying the most popular ones, their categories, and the impact of different countries on the platform. This includes understanding success metrics such as the number of subscribers and video views, and how these factors correlate with creators' earnings.
 
 - **Exploratory Data Analysis (EDA)**: Here, we answer some important questions for our analysis. Initially, we conducted a detailed statistical description of the dataset to get a basic understanding of trends and patterns. A temporal analysis was performed, correlating various variables to extract deeper insights. Then, we focused on the count of channels from different countries, categorizing them to facilitate comparisons and themes.
