@@ -40,4 +40,17 @@ I invite you to get a more complete view of my work through the projects I have 
  - 🔎[My Portfolio](https://fabioolivei.com/)
  - 💻[Explore my data science projects on GitHub.]()
  - 📚[My articles: I regularly write articles on medium](https://medium.com/@fabioolivei)
- 
+
+## Contact:
+
+I am always open to new connections and opportunities. Feel free to contact me via email, phone, or through social media to exchange ideas, comments, or discuss potential professional collaborations.
+
+<div align="left">
+  
+  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioolivei/)](https://www.linkedin.com/in/fabioolivei/)
+  - [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@fabioolivei)
+  - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4404F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fabioolivei/)
+
+  
+</div>
+
