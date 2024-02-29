@@ -74,7 +74,17 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 [Click here to see the full study](https://shre.ink/UpF5)
 
+* ### [**YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:**](https://shre.ink/rYcD)
 
+- **Understanding the Analysis:** The aim of this analysis is to explore the diverse landscape of YouTube channels, identifying the most popular ones, their categories, and the impact of different countries on the platform. This includes understanding success metrics such as the number of subscribers and video views, and how these factors correlate with creators' earnings.
+
+- **Exploratory Data Analysis (EDA)**: Here, we answer some important questions for our analysis. Initially, we conducted a detailed statistical description of the dataset to get a basic understanding of trends and patterns. A temporal analysis was performed, correlating various variables to extract deeper insights. Then, we focused on the count of channels from different countries, categorizing them to facilitate comparisons and themes.
+
+- **Trends and Correlations:** Understanding the relationship between engagement and profitability in the current YouTube landscape.
+
+- **Power of Data:** The critical importance of data analysis and analytics in optimizing content and marketing strategies.
+
+[Click here to see the full study](https://shre.ink/rYcD)
 
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
 * **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
@@ -83,7 +93,6 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 * **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
 * **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
-* **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://shre.ink/rYcD
 * **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
 
 ### Tutorial
