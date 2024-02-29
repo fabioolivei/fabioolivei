@@ -88,9 +88,40 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 [Click here to see the full study](https://shre.ink/rYcD)
 
-* **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
-* **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
-  
+* ###[**Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:**](https://shre.ink/rXwd)
+
+<img src="https://media.licdn.com/dms/image/D4D12AQFhjYnh9YPVQQ/article-cover_image-shrink_720_1280/0/1704463771968?e=1714608000&v=beta&t=DAQzeITTnvwhfglzk0nWg-QYtx0y1cB_jPXXb4BS7WQ" />
+
+- **Business Understanding:**
+The dataset focuses on predicting health insurance costs based on factors such as age, gender, Body Mass Index (BMI), number of children, smoking status, and region. Understanding these relationships is crucial for insurers to price policies accurately.
+
+- Insights and Recommendations Pricing Strategy: Consider factors such as number of children, smoking habits, and BMI for pricing, given their impact on health costs. 
+
+- Regional Evaluation: Analyze regional differences to adapt pricing and coverage strategies. 
+
+- Modeling: The model shows good overall performance, with a high R2 and a relatively low MAPE on unseen data, which is encouraging for its practical application. 
+
+[Click here to see the full study](https://shre.ink/rXwd)
+
+* ###[**A/B Testing Strategies in Fast Food Advertising:**](https://shre.ink/rhPB)
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BiwbOpLPRZIZbBZh6RHyjQ.png" />
+
+- **Objective:** The aim is to analyze a Fast Food Marketing Campaign dataset to understand the impact of different promotions on sales and identify the most effective strategies.
+
+- **Key Question:** Which marketing promotions are most effective in driving sales?
+
+**Statistical Significance (p-values)**:
+- Promotion 1 vs Promotion 2: p-value ≈ 4.29e-10
+- Promotion 1 vs Promotion 3: p-value ≈ 0.121
+- Promotion 2 vs Promotion 3: p-value ≈ 1.57e-06
+
+Evaluation
+- A/B Testing Results: Identified that Promotion 1 and Promotion 3 are statistically more effective than Promotion 2.
+- Cross-Validation: Lowest Mean Squared Error (MSE): The lowest value, 0.085, suggests a relatively good performance of the model in that specific fold, indicating that the model had an average squared error of approximately 85 sales (when we multiply by 1000 to convert back to the original scale of 'SalesInThousands').
+
+[Click here to see the full study](https://shre.ink/rhPB)
+
 ### Exploratory Data Analysis (EDA)  
 * **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
 * **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
