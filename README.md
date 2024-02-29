@@ -38,7 +38,7 @@ I invite you to get a more complete view of my work through the projects I have 
 ## Projects:
 
  - 🔎[My Portfolio](https://fabioolivei.com/)
- - 💻[Explore my data science projects on GitHub.]()
+ - 💻[Explore my data science projects on GitHub.](https://github.com/fabioolivei/Portfolio)
  - 📚[My articles: I regularly write articles on medium](https://medium.com/@fabioolivei)
 
 ## Contact:
