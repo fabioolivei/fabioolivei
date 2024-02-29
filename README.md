@@ -28,7 +28,10 @@ I invite you to get a more complete view of my work through the projects I have 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
-          
+  <a align="center" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="50"/> </a> 
+  <a align="center" href="https://numpy.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="60" height="50"/> 
+  <a align="center" href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="60" height="50"/> 
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img align="center" src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="60" height="50"/>        
 </div>
 
 
@@ -39,7 +42,11 @@ I invite you to get a more complete view of my work through the projects I have 
 
 * ### [**Diabetes Alert: A Machine Learning-Based App:**](https://shre.ink/rvNt)
 
+<div align="center">
+
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3xBqh5Df8qJj98VNi2GS0w.jpeg" />
+
+</div>
 
 - **Project Objectives:** To develop an ML model for predicting diabetes with high precision and recall, targeting early intervention and enhanced patient health management.
 
@@ -53,11 +60,17 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 - **Impact Result:** Thanks to the best diabetes prediction model, the clinic can identify and diagnose early 750 diabetes cases among patients. This represents a significant increase in detection compared to the previous scenario, where only 150 cases were diagnosed.
 
 
-  
+
+
 
 * ### [**Billions in Losses Avoided! Machine Learning in the Fight Against Card Fraud:**](https://shre.ink/UpF5)
 
+
+<div align="center">
+
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mnxrPjQxlHBdty3ZiVW8iw.png" />
+
+</div>
 
 - What is the importance of Machine Learning in practice, in this project?
   
@@ -74,9 +87,16 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 [Click here to see the full study](https://shre.ink/UpF5)
 
+
+
+
 * ### [**YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:**](https://shre.ink/rYcD)
 
+<div align="center">
+
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0oAVUuAAK6kiDILND2EReA.png" />
+
+</div>
 
 - **Understanding the Analysis:** The aim of this analysis is to explore the diverse landscape of YouTube channels, identifying the most popular ones, their categories, and the impact of different countries on the platform. This includes understanding success metrics such as the number of subscribers and video views, and how these factors correlate with creators' earnings.
 
@@ -90,7 +110,11 @@ For this project, the model was deployed using a Gradio app hosted on Hugging Fa
 
 * ### [**Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:**](https://shre.ink/rXwd)
 
-<img src="https://media.licdn.com/dms/image/D4D12AQFhjYnh9YPVQQ/article-cover_image-shrink_720_1280/0/1704463771968?e=1714608000&v=beta&t=DAQzeITTnvwhfglzk0nWg-QYtx0y1cB_jPXXb4BS7WQ" />
+<div align="center" >
+
+<img src="https://media.licdn.com/dms/image/D4D12AQFhjYnh9YPVQQ/article-cover_image-shrink_720_1280/0/1704463771968?e=1714608000&v=beta&t=DAQzeITTnvwhfglzk0nWg-QYtx0y1cB_jPXXb4BS7WQ" width=700 />
+
+</div>
 
 - **Business Understanding:**
 The dataset focuses on predicting health insurance costs based on factors such as age, gender, Body Mass Index (BMI), number of children, smoking status, and region. Understanding these relationships is crucial for insurers to price policies accurately.
@@ -105,7 +129,11 @@ The dataset focuses on predicting health insurance costs based on factors such a
 
 * ### [**A/B Testing Strategies in Fast Food Advertising:**](https://shre.ink/rhPB)
 
+<div align="center">
+
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BiwbOpLPRZIZbBZh6RHyjQ.png" />
+
+</div>
 
 - **Objective:** The aim is to analyze a Fast Food Marketing Campaign dataset to understand the impact of different promotions on sales and identify the most effective strategies.
 
