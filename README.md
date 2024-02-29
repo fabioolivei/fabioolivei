@@ -20,7 +20,7 @@ I invite you to get a more complete view of my work through the projects I have 
 </p>
 
 
-### Skills  
+## Skills  
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -35,7 +35,7 @@ I invite you to get a more complete view of my work through the projects I have 
 </div>
 
 
-# Projects:
+## Projects:
 
  - 🔎[My Portfolio](https://fabioolivei.com/)
  - 💻[Explore my data science projects on GitHub.]()
