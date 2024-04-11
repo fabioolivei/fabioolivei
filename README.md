@@ -1,4 +1,4 @@
-<img src="https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/FABIO-OLIVEI-%20Banner.png" alt="👋 Hi there! I'm Fabio Olivei" title="👋 Hi there! I'm Fabio Olivei"/>
+<img src="[https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/FABIO-OLIVEI-%20Banner.png](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=400,h=200,fit=scale-down,q=100/Y4L8BJjE2oia5PMq/fabio-olivei--banner-A0xNL9Lbv9F7nx1y.png)" alt="👋 Hi there! I'm Fabio Olivei" title="👋 Hi there! I'm Fabio Olivei"/>
 
 <div align="center">
   
