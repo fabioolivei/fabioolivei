@@ -12,7 +12,7 @@
 ---
 
 <p align="left">
-As a <strong>Data Scientist</strong>, I specialize in combining advanced analytical skills with effective teamwork and clear, concise communication of insights to stakeholders.
+As a <strong>Data Scientist/ Data Analytics</strong>, I specialize in combining advanced analytical skills with effective teamwork and clear, concise communication of insights to stakeholders.
 
 With a background in Data Science, I have mastered technical skills in Python, SQL, Statistics, Data Analysis, Machine Learning, Computer Vision, Excel, Power BI, and Tableau preparing myself to tackle complex challenges in the data universe. However, my main focus is to generate significant impact and add real value to businesses, regardless of the tools used.
 
