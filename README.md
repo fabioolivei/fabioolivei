@@ -12,11 +12,9 @@
 ---
 
 <p align="left">
-As a <strong>Data Scientist/Data Analytics</strong>, I specialize in combining advanced analytical skills with effective teamwork and clear, concise communication of insights to stakeholders.
+Fábio Olivei is an entrepreneur, teacher, and researcher in Artificial Intelligence, with an academic background and extensive experience in Marketing, Data Science, AI, and Music. As the founder of Avance AI, he stands out for combining technology and education, creating innovative solutions that transform personalized learning and drive digital transformation.
 
-With a background in Data Science, I have mastered technical skills in Python, SQL, Statistics, Data Analysis, Machine Learning, Computer Vision, Excel, Power BI, and Tableau preparing myself to tackle complex challenges in the data universe. However, my main focus is to generate significant impact and add real value to businesses, regardless of the tools used.
-
-I invite you to get a more complete view of my work through the projects I have developed, reflecting my commitment and dedication to data science and the positive impact it can bring to various fields.
+I invite you to get a more complete view of my work through the projects I have developed, reflecting my commitment and dedication to data science/ AI and the positive impact it can bring to various fields.
 </p>
 
 
@@ -37,7 +35,7 @@ I invite you to get a more complete view of my work through the projects I have 
 
 ## Projects:
 
- - 🔎[My Portfolio](https://fabioolivei.com/)
+ - 🔎[My Blog](https://fabioolivei.com/)
  - 💻[Explore my data science projects on GitHub.](https://github.com/fabioolivei/Portfolio)
  - 📚[My articles: I regularly write articles on medium](https://medium.com/@fabioolivei)
 
